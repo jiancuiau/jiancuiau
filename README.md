@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jiancuiau
 - 👀 I’m interested in statisics and sports
-- 🌱 I’m currently learning deep-learning
-- 💞️ I’m looking a job as DS
+- 🌱 I’m currently coding with Python, R, MATLAB, SQL
 - 📫 How to reach me : Email: accuijian@gmail.com
 
 <!---
